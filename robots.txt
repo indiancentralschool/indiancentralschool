@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Disallow: /*thank*
+Disallow: /ics-kuwait-academic-calendar-new-v3
